@@ -19,11 +19,11 @@ console.log(nya, correo, edad, zonaR, msj);
     * comparo para que no haya campos vacios *
 
 if (nombreyapellido === "" || correo === "" || zonaResidencial === "" || mensaje === "") {
+
 alert("Ups! Por favor, completa todos los campos.");
 return false; // no deberia enviar el formulario
-alert(
-"Su consulta fue enviada correctamente! En breve nos comunicaremos con usted."
-);
+}else {
+alert("Su consulta fue enviada correctamente! En breve nos comunicaremos con usted.");
 return true; // deberia enviar el formulario
 }
 }
