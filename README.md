@@ -30,10 +30,10 @@ return true; // deberia enviar el formulario
 
 validarFormulario(); --> corro la funcion
 
-_/----POR QUE ES UTIL?----_/
+*/----POR QUE ES UTIL?----*/
 
 Es util para que no se envien formularios vacios y de esa manera no llenar la base de datos.
 
-_/----COMO LO PENSE Y COMO LO VAMOS A IMPLEMENTAR EN EL PROYECTO?----_/
+*/----COMO LO PENSE Y COMO LO VAMOS A IMPLEMENTAR EN EL PROYECTO?----*/
 
 Lo pense como una validacion simple, aun no se como implementarlo al proyecto. Porque no se como tomar los datos el formulario que ya tenemos en la pagina. En este caso "cree" un formulario a partir de prompt's y alert's
