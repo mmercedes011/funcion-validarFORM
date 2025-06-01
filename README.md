@@ -12,7 +12,7 @@ let mensaje = prompt("Escriba un mensaje");
 
     /*----guardo los datos que obtuve----*/
 
-console.log(nya, correo, edad, zonaR, msj);
+console.log(nombreyapellido, correo, edad, zonaResidencial, mensaje);
 
     */---- VALIDACION----*/
 
